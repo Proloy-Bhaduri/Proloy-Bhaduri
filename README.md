@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **reactjs,nodejs,**
 
-- 👯 I’m looking to collaborate on **W**
+- 👯 I’m looking to collaborate on **Your Next WordPress Project**
 
 - 👨‍💻 All of my projects are available at [https://proloybhaduri.com](https://proloybhaduri.com)
 
