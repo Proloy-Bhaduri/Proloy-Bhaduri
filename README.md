@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://instantwpfix.com/engineer/proloybhaduri,https://www.fiverr.com/proloybhaduri,https://www.upwork.com/freelancers/~012121388674a82d56](https://instantwpfix.com/engineer/proloybhaduri,https://www.fiverr.com/proloybhaduri,https://www.upwork.com/freelancers/~012121388674a82d56)
 
-- ⚡ Fun fact **I'm a bathroom singer**
+- ⚡ Fun fact **I'm not a funny guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
