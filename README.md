@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **javascript,css,wordpress,woocommerce,php,react,gutenberg,SQL, DSA**
 
-- 📫 How to reach me **proloy1999pb@gmail.com**
+- 📫 How to reach me **proloybhaduri@gmail.com**
 
 - 📄 Know about my experiences [https://instantwpfix.com/engineer/proloybhaduri]
 - <h3 style="display:flex;align-items:center;justify-content:space-evenly;"><a href="https://www.fiverr.com/proloybhaduri">Work With Me On <img src="https://svgshare.com/i/ctA.svg"></a></h3>
