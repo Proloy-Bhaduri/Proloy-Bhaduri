@@ -14,8 +14,8 @@
 - 📫 How to reach me **proloybhaduri@gmail.com**
 
 - 📄 Know about my experiences [https://instantwpfix.com/engineer/proloybhaduri]
-- <h2 style="display:flex;align-items:center;justify-content:space-evenly;"><a style="text-decoration:none;" href="https://www.fiverr.com/proloybhaduri">Work With Me On <strong>Fiverr</strong></a></h2>
-- <h2 style="display:flex;align-items:center;justify-content:space-evenly;"><a style="text-decoration:none;" href="https://www.upwork.com/workwith/proloybhaduri"><span style="">Hire Me On</span>   <strong>Upwork</strong></a></h2>
+- <h2 style="display:flex;align-items:center;justify-content:space-evenly;"><a style="text-decoration:none;" href="https://www.fiverr.com/proloybhaduri">Hire Me On <strong>Fiverr</strong></a></h2>
+- <h2 style="display:flex;align-items:center;justify-content:space-evenly;"><a style="text-decoration:none;" href="https://www.upwork.com/workwith/proloybhaduri"><span style="">Work With Me On</span>   <strong>Upwork</strong></a></h2>
 
 - ⚡ Fun fact **I'm not a funny guy**
 
