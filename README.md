@@ -15,28 +15,6 @@
 
 - 📄 Know about my experiences [https://instantwpfix.com/engineer/proloybhaduri]
 - <h2 style="display:flex;align-items:center;justify-content:space-evenly;"><a style="text-decoration:none;" href="https://www.fiverr.com/proloybhaduri">Hire Me On <strong>Fiverr</strong></a></h2>
-- <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/proloybhaduri rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-9c7253d0-5989-405a-b09f-472d83203a2e' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >proloybhaduri</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>👋 Hello  ! 
-
-I am Proloy Bhaduri ,a Computer Science Engineer from India. I am on Fiverr  since Sep 2017 but  recently started selling on Fiverr from 2020. I have 8years+ experience in the speed and performance  optimization ⚡ of WordPress websites  and web programming with PHP.  
- I love to work with amazing people like you . 
-New challenging problems always ignite the  spark of creativity in me .
-Making  WordPress websites super fast and highly optimized  is my passion.
-Let's discuss about your project </div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-9c7253d0-5989-405a-b09f-472d83203a2e' src='https://widgets.fiverr.com/api/v1/seller/proloybhaduri?widget_id=9c7253d0-5989-405a-b09f-472d83203a2e' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
-
 - <h2 style="display:flex;align-items:center;justify-content:space-evenly;"><a style="text-decoration:none;" href="https://www.upwork.com/workwith/proloybhaduri"><span style="">Work With Me On</span>   <strong>Upwork</strong></a></h2>
 
 - ⚡ Fun fact **I'm not a funny guy**
