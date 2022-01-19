@@ -5,15 +5,10 @@
 
 - 👯 I’m looking to collaborate on **Your Next WordPress Project**
 
-- 👨‍💻 All of my projects are available at [https://proloybhaduri.com](https://proloybhaduri.com)
-
-- 📝 I regularly write articles on [https://proloybhaduri.com/blog](https://proloybhaduri.com/blog)
-
 - 💬 Ask me about **javascript,css,wordpress,woocommerce,php,react,gutenberg,SQL, DSA**
 
 - 📫 How to reach me **proloybhaduri@gmail.com**
 
-- 📄 Know about my experiences [https://instantwpfix.com/engineer/proloybhaduri]
 - <h2 style="display:flex;align-items:center;justify-content:space-evenly;"><a style="text-decoration:none;" href="https://www.fiverr.com/proloybhaduri">Hire Me On <strong>Fiverr</strong></a></h2>
 - <h2 style="display:flex;align-items:center;justify-content:space-evenly;"><a style="text-decoration:none;" href="https://www.upwork.com/workwith/proloybhaduri"><span style="">Work With Me On</span>   <strong>Upwork</strong></a></h2>
 
