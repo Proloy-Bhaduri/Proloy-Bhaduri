@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Your Next Website Project**
 
-- 💬 Ask me about **javascript,css,wordpress,woocommerce,php,react,SQL, OOP, Databases, API Integration, DSA**
+- 💬 Ask me about **Vanilla Javascript,CSS,SASS,WordPress,Woocommerce,PHP,React.js,SQL, OOP, Databases, REST APIs, GraphQL, DSA and System Design**
 
 - 📫 How to reach me **proloybhaduri@gmail.com**
 
