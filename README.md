@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Proloy Bhaduri</h1>
-<h3 align="center">A Full Stack Web Developer from India</h3>
+<h3 align="center">A Full Stack Engineer from India</h3>
 
 - 🌱 I’m currently learning  **Headless WP**
 
-- 👯 I’m looking to collaborate on **Your Next Website Project**
+- 👯 I’m looking to collaborate on **Your Next Scalable System Design Project**
 
-- 💬 Ask me about **Vanilla Javascript,CSS,SASS,WordPress,Woocommerce,PHP,React.js,SQL, OOP, Databases, REST APIs, GraphQL, DSA and System Design**
+- 💬 Ask me about **Vanilla Javascript,CSS,SASS,WordPress,Woocommerce,PHP,React.js,SQL, OOP, Databases, REST APIs, GraphQL, DSA and System Designs**
 
 - 📫 How to reach me **proloybhaduri@gmail.com**
 
