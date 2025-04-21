@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Proloy Bhaduri</h1>
-<h3 align="center">A Full Stack Engineer from India</h3>
+<h3 align="center">A Full Stack Engineer from India 🇮🇳</h3>
 
 - 🌱 I’m currently learning  **Headless WP**
 
