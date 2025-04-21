@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **proloybhaduri@gmail.com**
 
-- <h2 style="display:flex;align-items:center;justify-content:space-evenly;"><a style="text-decoration:none;" href="https://www.fiverr.com/proloybhaduri">Hire Me On <strong>Fiverr</strong></a></h2>
--  <h2 style="display:flex;align-items:center;justify-content:space-evenly;"><a style="text-decoration:none;" href="https://www.upwork.com/freelancers/~012121388674a82d56">Hire Me On <strong>Upwork</strong></a></h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/proloy1999pb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="proloy1999pb" height="30" width="40" /></a>
