@@ -2,6 +2,8 @@
 <h3 align="center">A Full Stack Engineer from India 🇮🇳</h3>
 
 - 🌱 I’m currently learning  **Headless WP**
+  
+- 🐛 I love to debug serious faults in software systems. 
 
 - 👯 I’m looking to collaborate on **Your Next Scalable System Design Project**
 
